@@ -1,4 +1,3 @@
-![MasterHead](https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?w=740&t=st=1657773689~exp=1657774289~hmac=67a539ee0389ff3c36abc36ed6b2c2b16e62f64de770b18aab654af5dc881adf)
 
 <h1 align="center">Hi 👋, I'm Aarti Lanke</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
