@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **C++, DSA**
 
-- 🤝 I’m looking for internship in **Frontend web development**
+- 🤝 Working as Fullstack Development Intern**
 
 - 📫 How to reach me **aartilanke3108@gmail.com**
 
