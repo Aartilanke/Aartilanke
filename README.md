@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **C++, DSA**
 
-- 🤝 Working as Fullstack Development Intern**
+- 🤝 Working as Fullstack Development Intern @WorqHat**
 
 - 📫 How to reach me **aartilanke3108@gmail.com**
 
