@@ -20,7 +20,7 @@
 <a href="https://www.hackerrank.com/lankeaarti3108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aarti lanke" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/Aarti_Lanke3108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aarti lanke" height="30" width="40" /></a>
 <a href="https://twitter.com/aarti_3108l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aarti_3108l" height="30" width="40" /></a>
-<a href="https://instagram.com/aartilanke_3108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aartilanke_3108" height="30" width="40" /></a>
+<a href="https://instagram.com/aartilanke3108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aartilanke_3108" height="30" width="40" /></a>
 
 </p>
 
