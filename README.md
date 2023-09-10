@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m a final year EnTC student studying in **@VIIT collage**
+- 🔭 Completed BTECH from **@VIIT collage**
 
 - 🌱 I’m currently learning **C++, DSA**
 
